@@ -14,7 +14,7 @@ A rollback-safe utility to disable Xbox Game Bar components, hijack unused proto
 
 ## 🖥️ GUI Preview
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/Screenshot 2025-08-31 124418.png)
 
 ## 🔄 Rollback Safety
 
